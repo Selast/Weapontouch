@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 5781dd16555ec6749bd01f31a1e4e852
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -414170149198234552
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_0
+  - first:
+      213: 8945953884121924819
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_1
+  - first:
+      213: 672422368933929200
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_2
+  - first:
+      213: 3261878606528839272
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_3
+  - first:
+      213: 5136825339453124015
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_4
+  - first:
+      213: -2005404173573202434
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_5
+  - first:
+      213: 5048427183730358971
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_6
+  - first:
+      213: 1031130234646717806
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_7
+  - first:
+      213: 8124397004704616285
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_8
+  - first:
+      213: 3436882309996629336
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_9
+  - first:
+      213: 3435577882910959798
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_10
+  - first:
+      213: -8778581103037706979
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_11
+  - first:
+      213: -8899394386453449714
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_12
+  - first:
+      213: -5462914961628223683
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_13
+  - first:
+      213: 1578338389764823423
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_14
+  - first:
+      213: -3405396278821599074
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_15
+  - first:
+      213: -5670520011129586052
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_16
+  - first:
+      213: 3139900301792205647
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_17
+  - first:
+      213: -2776191179242649971
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_18
+  - first:
+      213: -7282902446221758585
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_19
+  - first:
+      213: 3040360214250807826
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_20
+  - first:
+      213: -4469215966999373525
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_21
+  - first:
+      213: -902750896462518657
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_22
+  - first:
+      213: -6808730362559574576
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_23
+  - first:
+      213: 8242530116613772222
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_24
+  - first:
+      213: -2413034506372036434
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_25
+  - first:
+      213: 457916191734450707
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_26
+  - first:
+      213: 7996587665008560980
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_27
+  - first:
+      213: -1215934665059213845
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_28
+  - first:
+      213: 482816001941302398
+    second: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cf7749172904af0800000000000000
+      internalID: -414170149198234552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d40d10f8a9662c70800000000000000
+      internalID: 8945953884121924819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f06557f49ce45900800000000000000
+      internalID: 672422368933929200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ef89a7f45844d20800000000000000
+      internalID: 3261878606528839272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad245f1e6ba94740800000000000000
+      internalID: 5136825339453124015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd551b778f5b24e0800000000000000
+      internalID: -2005404173573202434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba7ca0a6cd9f0640800000000000000
+      internalID: 5048427183730358971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6568493c7f4f4e00800000000000000
+      internalID: 1031130234646717806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f8aa7e708afb070800000000000000
+      internalID: 8124397004704616285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d4c26604242bf20800000000000000
+      internalID: 3436882309996629336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8a81dc1ef9daf20800000000000000
+      internalID: 3435577882910959798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d0b796ff63c2680800000000000000
+      internalID: -8778581103037706979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04365fd4fffe7480800000000000000
+      internalID: -8899394386453449714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37abf149c3df24b0800000000000000
+      internalID: -5462914961628223683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f795b41376267e510800000000000000
+      internalID: 1578338389764823423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98c661802a9db0d0800000000000000
+      internalID: -3405396278821599074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e70e4f7144e41b0800000000000000
+      internalID: -5670520011129586052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b577640ba239b20800000000000000
+      internalID: 3139900301792205647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d864ba4d4dcf879d0800000000000000
+      internalID: -2776191179242649971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fe027cfceedea90800000000000000
+      internalID: -7282902446221758585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21266af9187813a20800000000000000
+      internalID: 3040360214250807826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b299f76c1c72af1c0800000000000000
+      internalID: -4469215966999373525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76afa7b7d8c873f0800000000000000
+      internalID: -902750896462518657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd48383fc78281a0800000000000000
+      internalID: -6808730362559574576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb319336879536270800000000000000
+      internalID: 8242530116613772222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea84fe8b6ed238ed0800000000000000
+      internalID: -2413034506372036434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a4b39a958da5600800000000000000
+      internalID: 457916191734450707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b0b141d1699fe60800000000000000
+      internalID: 7996587665008560980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beddf0b4dd1202fe0800000000000000
+      internalID: -1215934665059213845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: File (1)_waifu2x_art_noise2_scale_waifu2x_art_noise2_scale_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ce59f789e43b600800000000000000
+      internalID: 482816001941302398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
